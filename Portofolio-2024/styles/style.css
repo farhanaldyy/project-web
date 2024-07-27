@@ -419,3 +419,26 @@ a {
 .contact-item-detail h4 {
    margin-bottom: 0.4rem;
 }
+
+/* Footer section */
+footer {
+   padding: 3rem 0;
+   background: var(--secondaryBackgroundColor);
+   text-align: center;
+}
+
+.footer-icons {
+   margin-bottom: 1rem;
+}
+
+.footer-icons a {
+   margin: 0 0.5rem;
+}
+
+.footer-icons svg:hover {
+   fill: #000;
+}
+
+.footer-icons svg {
+   fill: #4e4c4c;
+}
